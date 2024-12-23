@@ -1,6 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
+  "homepage": "https://k0msak007.github.io/Laser_Measurement_client/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
